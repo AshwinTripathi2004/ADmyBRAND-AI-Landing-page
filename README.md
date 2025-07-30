@@ -69,5 +69,123 @@ A beautifully crafted, responsive, and animated landing page built for the ficti
 
 ---
 
-## 🗂️ Folder Structure (Simplified)
+
+
+## 📁 Folder Structure
+
+```
+
+my-landing-page/
+│
+├── app/                  # Next.js app directory
+│   ├── page.tsx         # Main landing page
+│   └── layout.tsx       # Layout wrapper
+│
+├── components/          # Reusable UI components
+│   ├── Navbar.tsx
+│   ├── Footer.tsx
+│   ├── Toggle.tsx       # Theme toggle button
+│   └── MotionWrapper.tsx
+│
+├── public/              # Static assets like images
+│   └── img/
+│
+├── styles/              # Global styles
+│   └── globals.css
+│
+├── tailwind.config.ts   # Tailwind CSS config
+├── postcss.config.js
+├── tsconfig.json
+├── package.json
+└── README.md            # Project instructions
+
+````
+
+---
+
+## ⚙️ How to Setup Locally
+
+### 1. 📦 Prerequisites
+
+- Install latest Node.js: [https://nodejs.org](https://nodejs.org)
+- Update `npm` to the latest version:
+
+```bash
+npm install -g npm@latest
+````
+
+---
+
+### 2. 🚀 Clone & Install
+
+```bash
+git clone https://github.com/your-username/my-landing-page.git
+cd my-landing-page
+npm install
+```
+
+---
+
+### 3. 🧪 Run Locally
+
+```bash
+npm run dev
+```
+
+Visit: `http://localhost:3000`
+
+---
+
+## 🚀 Deploy to Vercel
+
+### 1. Push to GitHub
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/your-username/my-landing-page.git
+git push -u origin main
+```
+
+### 2. Deploy on Vercel
+
+* Go to [https://vercel.com](https://vercel.com)
+* Click **“New Project”**
+* Import your GitHub repo
+* Click **“Deploy”**
+
+---
+
+## 💡 Features
+
+* ✅ Light/Dark toggle with modern UI
+* ✅ Scroll motion effects (up/down)
+* ✅ Auto-focus & responsive navbar
+* ✅ Animated dashboard opening
+* ✅ No content hidden—every word is visible
+* ✅ Fully mobile responsive
+
+---
+
+## 📸 Preview
+
+*Add your preview GIF/screenshot here.*
+
+---
+
+## 🛠 Tech Stack
+
+* React (Next.js)
+* Tailwind CSS
+* TypeScript
+* Framer Motion
+
+---
+
+## 📬 Contact
+
+Created by **Ashwini Tripathi** – feel free to contact me on [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/gec-bharuch-comp-dte-ashwini-tripathi/)) or \[[email@example.com](tripathiashwin2004@gmail.com].
+
+```
 
