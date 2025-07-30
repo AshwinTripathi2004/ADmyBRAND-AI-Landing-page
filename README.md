@@ -186,7 +186,7 @@ git push -u origin main
 
 ## 📬 Contact
 
-Created by **Ashwini Tripathi** – feel free to contact me on [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/gec-bharuch-comp-dte-ashwini-tripathi/)) or \[[email@example.com](tripathiashwin2004@gmail.com].
+Created by **Ashwini Tripathi** – feel free to contact me on \[LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/gec-bharuch-comp-dte-ashwini-tripathi/)) or \[[email@example.com](tripathiashwin2004@gmail.com].
 
 ```
 
