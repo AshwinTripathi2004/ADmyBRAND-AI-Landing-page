@@ -170,7 +170,8 @@ git push -u origin main
 
 ## 📸 Preview
 
-*Add your preview GIF/screenshot here.*
+<img width="1913" height="915" alt="Screenshot 2025-07-30 174448" src="https://github.com/user-attachments/assets/435ebc2e-641a-4f92-8c91-ea9efc261c2a" />
+*
 
 ---
 
