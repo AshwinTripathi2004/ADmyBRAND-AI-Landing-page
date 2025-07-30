@@ -176,7 +176,7 @@ export function Footer() {
                 whileTap={{ scale: 0.95 }}
                 className="px-8 py-3 bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 rounded-r-xl font-bold transition-all duration-300 shadow-lg hover:shadow-blue-500/25"
               >
-                Subscribe
+              Join
               </motion.button>
             </div>
           </div>
