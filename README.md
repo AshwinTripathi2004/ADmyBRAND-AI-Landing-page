@@ -25,36 +25,6 @@ A beautifully crafted, responsive, and animated landing page built for the ficti
 
 ---
 
-## 🧠 AI Usage Report
-
-### 🔧 AI Tools Used
-
-- **v0.dev** – For generating UI skeletons and base component layouts
-- **ChatGPT** – Code structure planning, Framer Motion prompts, component logic
-- **Cursor** – Contextual inline suggestions during refactors
-- **GitHub Copilot** – Snippets and Tailwind utility suggestions
-
-### ✍️ Sample Prompts Used
-
-1. _"Create a responsive pricing card section using React and Tailwind with 3 plans and hover effects."_
-2. _"Add scroll-triggered fade-in animations using Framer Motion in Next.js 14."_
-3. _"Implement dark/light mode toggle using next-themes with icons and smooth transition."_
-
-### ⚙️ AI vs Manual Work Split
-
-- **AI-generated (~60%)**
-  - Initial layout generation using v0.dev
-  - Skeletons for components (Hero, Footer, Pricing)
-  - Animation logic templates
-
-- **Manual customization (~40%)**
-  - Full **Framer Motion integration** and tweaking
-  - **Dark/light mode functionality and styling**
-  - Improved **accessibility**, structure, and **text visibility**
-  - Enhanced **mobile responsiveness** and component reuse
-  - Typography and layout fine-tuning per 2025 design trends
-
----
 
 ## 🛠️ Tech Stack
 
