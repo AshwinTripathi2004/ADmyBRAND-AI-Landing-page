@@ -159,4 +159,6 @@ git push -u origin main
 Created by **Ashwini Tripathi** – feel free to contact me on \[LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/gec-bharuch-comp-dte-ashwini-tripathi/)) or \[[email@example.com](tripathiashwin2004@gmail.com].
 
 ```
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
