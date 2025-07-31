@@ -4,7 +4,7 @@ A beautifully crafted, responsive, and animated landing page built for the ficti
 
 ## ✨ Live Demo
 
-👉 [View on Vercel](https://your-vercel-link.vercel.app)
+👉 [View on Vercel](https://a-dmy-brand-ai-landing-page.vercel.app)
 
 ---
 
